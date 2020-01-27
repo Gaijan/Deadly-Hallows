@@ -10,4 +10,4 @@ Screenshots
 
 This is how the apps look like you like to know the visuals and design of the game.
 
-
+dark.PNG
