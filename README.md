@@ -9,7 +9,7 @@ Feel free to use the resources to make your own game or to make a better version
 ## Screenshots
 
 This is how the apps look like you like to know the visuals and design of the game.
-<img align="left" src="https://github.com/Gaijan/Deadly-Hallows/master/screnshots/dark.jpg" width="40%" height="40%" hspace="20">
-  <img align="left" src="https://github.com/Gaijan/Deadly-Hallows/master/screnshots/dark1.jpg" width="40%" height="40%" hspace="20">
+<img align="left" src="https://github.com/Gaijan/Deadly-Hallows/master/screnshots/dark.png" width="40%" height="40%" hspace="20">
+  <img align="left" src="https://github.com/Gaijan/Deadly-Hallows/master/screnshots/dark1.png" width="40%" height="40%" hspace="20">
 
-  <img align="left" src="https://github.com/Gaijan/Deadly-Hallows/master/screnshots/dark2.jpg" width="40%" height="40%" hspace="20">
+  <img align="left" src="https://github.com/Gaijan/Deadly-Hallows/master/screnshots/dark2.png" width="40%" height="40%" hspace="20">
